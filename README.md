@@ -6,7 +6,7 @@ I am a Software Engineering undergraduate at the Open University of Sri Lanka, i
 
 This portfolio showcases my skills, projects, education, and learning journey as I continue developing my technical abilities.
 
-*Visit my live portfolio:https://shalin5421.github.io/JosephShalini-portfolio-/
+* Visit my live portfolio : https://shalin5421.github.io/JosephShalini-portfolio-/
 
 ## Technologies Used
 
